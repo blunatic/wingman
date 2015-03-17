@@ -5,4 +5,4 @@ Created basic 2D topdown style plane shooter game for class project using Java.
 
 To run from directory:
 
-`wingman.jar java -jar wingman.jar`
+`Luna_Wingman.jar java -jar Luna_Wingman.jar`
